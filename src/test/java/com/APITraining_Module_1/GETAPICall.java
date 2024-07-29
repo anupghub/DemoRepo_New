@@ -22,7 +22,7 @@ public class GETAPICall {
 		
 		Response resp = request.get();
 		System.out.println(resp.asString());
-		System.out.println("Test");
+		
 	
 	}
 
